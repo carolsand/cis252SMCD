@@ -12,106 +12,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7759a32d-7095-425b-b70a-9ee8a3f5a163" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../linked-list-class/biSearch.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week4CarolSandersProj3/.idea/codestream.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week4CarolSandersProj4/.idea/codestream.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codestream.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/week5CarolSandersSSQ5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeCXXCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeRCCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/week5CarolSandersProg1SortFindArrayList.dir/DependInfo.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/week5CarolSandersProg1SortFindArrayList.dir/build.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/week5CarolSandersProg1SortFindArrayList.dir/cmake_clean.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/week5CarolSandersProg1SortFindArrayList.dir/depend.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/week5CarolSandersProg1SortFindArrayList.dir/flags.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/week5CarolSandersProg1SortFindArrayList.dir/objects1.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/week5CarolSandersProg1SortFindArrayList.dir/progress.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/week5CarolSandersSSQ5.dir/DependInfo.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/week5CarolSandersSSQ5.dir/build.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/week5CarolSandersSSQ5.dir/cmake_clean.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/week5CarolSandersSSQ5.dir/depend.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/week5CarolSandersSSQ5.dir/flags.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/week5CarolSandersSSQ5.dir/objects1.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/week5CarolSandersSSQ5.dir/progress.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/week5CarolSandersProg1SortFindArrayList.cbp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/week5CarolSandersSSQ5.cbp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/.idea/codestream.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/.idea/week5CarolSandersProg1SortFindLinkedList.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/cmake-build-debug/CMakeFiles/3.15.3/CMakeCXXCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/cmake-build-debug/CMakeFiles/3.15.3/CMakeRCCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/cmake-build-debug/CMakeFiles/week5CarolSandersProg1SortFindLinkedList.dir/DependInfo.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/cmake-build-debug/CMakeFiles/week5CarolSandersProg1SortFindLinkedList.dir/build.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/cmake-build-debug/CMakeFiles/week5CarolSandersProg1SortFindLinkedList.dir/cmake_clean.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/cmake-build-debug/CMakeFiles/week5CarolSandersProg1SortFindLinkedList.dir/depend.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/cmake-build-debug/CMakeFiles/week5CarolSandersProg1SortFindLinkedList.dir/flags.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/cmake-build-debug/CMakeFiles/week5CarolSandersProg1SortFindLinkedList.dir/objects1.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/cmake-build-debug/CMakeFiles/week5CarolSandersProg1SortFindLinkedList.dir/progress.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/cmake-build-debug/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/cmake-build-debug/cmake_install.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/cmake-build-debug/week5CarolSandersProg1SortFindLinkedList.cbp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week5CarolSandersSSQ5/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week5CarolSandersSSQ5/.idea/codestream.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week5CarolSandersSSQ5/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week5CarolSandersSSQ5/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week5CarolSandersSSQ5/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week5CarolSandersSSQ5/.idea/week5CarolSandersSSQ5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week5CarolSandersSSQ5/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week5CarolSandersSSQ5/cmake-build-debug/CMakeFiles/clion-log.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../linked-list-class/biSearch.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../linked-list-class/biSearch.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -169,7 +73,7 @@
       <option name="presentableId" value="Default" />
       <updated>1581746323845</updated>
       <workItem from="1581746330666" duration="9672000" />
-      <workItem from="1581806902854" duration="3993000" />
+      <workItem from="1581806902854" duration="7562000" />
     </task>
     <servers />
   </component>

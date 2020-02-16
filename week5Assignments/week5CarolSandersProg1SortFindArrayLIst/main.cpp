@@ -1,4 +1,6 @@
 #include <iostream>
+#include <stdio.h>
+
 using namespace std;
 
 class LISTofIntVars {
@@ -25,6 +27,18 @@ public:
     }
 //called individually and also by the add method
 
+int isSorted(int arrSize, int arr[]) {
+    // Base Case
+    // if Array has size equal to 0 or 1 then the array is sorted
+    if (arrSize <=1){
+        return 1;
+    }
+    // Recursive Case
+    //
+    if (arr[arrSize - 1] >= arr[arrSize-2]){
+        return isSorted(arr[arrSize -1], arr[]);
+    }
+}
 // check if item in list
     bool search (int inVal) { // called individually and also by the delete method
         if (!isEmpty()) {
@@ -35,6 +49,14 @@ public:
         }
         return false;
     }
+
+    bool sort(int inVa){
+    if (!isEmpty()) {
+        for (int i= 0; i < 100; i++){
+            if (arr[i] == arr[i - 1])
+        }
+    }
+}
 
     bool deleteVal (int inVal) {
         for(int i = 0; i < 100; i++) {
@@ -63,7 +85,7 @@ public:
 
     int sortArr() {
        for (int i = 0; i < 100; i++) {
-           
+
        }
 }
 // others
