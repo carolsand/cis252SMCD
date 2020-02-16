@@ -12,14 +12,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7759a32d-7095-425b-b70a-9ee8a3f5a163" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../linked-list-class/biSearch.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../linked-list-class/biSearch.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/week5CarolSandersProg1SortFindArrayList.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/week5CarolSandersProg1SortFindArrayList.dir/main.cpp.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/week5CarolSandersProg1SortFindArrayList.dir/vc140.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/week5CarolSandersProg1SortFindArrayList.dir/vc140.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/week5CarolSandersProg1SortFindArrayList.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/week5CarolSandersProg1SortFindArrayList.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/week5CarolSandersProg1SortFindArrayList.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/week5CarolSandersProg1SortFindArrayList.ilk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/week5CarolSandersProg1SortFindArrayList.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/week5CarolSandersProg1SortFindArrayList.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,7 +73,7 @@
       <option name="presentableId" value="Default" />
       <updated>1581746323845</updated>
       <workItem from="1581746330666" duration="9672000" />
-      <workItem from="1581806902854" duration="12575000" />
+      <workItem from="1581806902854" duration="13576000" />
     </task>
     <servers />
   </component>
@@ -93,22 +88,22 @@
       <screen x="0" y="0" width="2560" height="1409" />
     </state>
     <state x="1239" y="851" key="FileChooserDialogImpl/0.0.2560.1409@0.0.2560.1409" timestamp="1581805856340" />
-    <state width="1146" height="278" key="GridCell.Tab.0.bottom" timestamp="1581824554026">
+    <state width="1146" height="278" key="GridCell.Tab.0.bottom" timestamp="1581825042527">
       <screen x="0" y="0" width="2560" height="1409" />
     </state>
-    <state width="1146" height="278" key="GridCell.Tab.0.bottom/0.0.2560.1409@0.0.2560.1409" timestamp="1581824554026" />
-    <state width="1146" height="278" key="GridCell.Tab.0.center" timestamp="1581824554026">
+    <state width="1146" height="278" key="GridCell.Tab.0.bottom/0.0.2560.1409@0.0.2560.1409" timestamp="1581825042527" />
+    <state width="1146" height="278" key="GridCell.Tab.0.center" timestamp="1581825042526">
       <screen x="0" y="0" width="2560" height="1409" />
     </state>
-    <state width="1146" height="278" key="GridCell.Tab.0.center/0.0.2560.1409@0.0.2560.1409" timestamp="1581824554026" />
-    <state width="1146" height="278" key="GridCell.Tab.0.left" timestamp="1581824554025">
+    <state width="1146" height="278" key="GridCell.Tab.0.center/0.0.2560.1409@0.0.2560.1409" timestamp="1581825042526" />
+    <state width="1146" height="278" key="GridCell.Tab.0.left" timestamp="1581825042526">
       <screen x="0" y="0" width="2560" height="1409" />
     </state>
-    <state width="1146" height="278" key="GridCell.Tab.0.left/0.0.2560.1409@0.0.2560.1409" timestamp="1581824554025" />
-    <state width="1146" height="278" key="GridCell.Tab.0.right" timestamp="1581824554026">
+    <state width="1146" height="278" key="GridCell.Tab.0.left/0.0.2560.1409@0.0.2560.1409" timestamp="1581825042526" />
+    <state width="1146" height="278" key="GridCell.Tab.0.right" timestamp="1581825042526">
       <screen x="0" y="0" width="2560" height="1409" />
     </state>
-    <state width="1146" height="278" key="GridCell.Tab.0.right/0.0.2560.1409@0.0.2560.1409" timestamp="1581824554026" />
+    <state width="1146" height="278" key="GridCell.Tab.0.right/0.0.2560.1409@0.0.2560.1409" timestamp="1581825042526" />
     <state x="1341" y="274" key="SettingsEditor" timestamp="1581805865581">
       <screen x="0" y="0" width="2560" height="1409" />
     </state>
