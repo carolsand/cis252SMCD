@@ -44,10 +44,10 @@ public:
 
 
 // check if item in list
-    bool search (int inVal) { // called individually and also by the delete method
+    int search (int inVal) { // called individually and also by the delete method
         if (!isEmpty()) {
             for (int i = 0; i < 100; i++) {
-                if (arr[i] == inVal) { return true; }
+                if (arr[i] == inVal) { cout << " Number is in list: " << arr[i]; }
                 else { return false; }
             }
         }
@@ -99,30 +99,34 @@ public:
         int input = 0;
         int tempVal;
         restart:
-        cout << "Enter option:\n 1.Add\n 2.Remove\n 3.Search\n 4.Print\n 5.Node Count" << endl;
-        cin >> input;
+           cout << "Enter option:\n 1. Add a Node\n 2. Remove a Node\n 3. Search For A Node\n 4. Print All Nodes\n 5. Show Node Count\n 6. Exit\n" << endl;
+           cin >> input;
         switch (input) {
             case 1:
                 cout << "Add value to list: ";
                 cin >> tempVal;
                 LISTofIntVars::addVal(tempVal);
-                break;
+                goto restart;
             case 2:
                 cout << "Removing the value: ";
                 cin >> tempVal;
                 LISTofIntVars::deleteVal(tempVal);
-                break;
+                goto restart;
             case 3:
                 cout << "Enter value to search: \n";
                 cin >> tempVal;
                 LISTofIntVars::search(tempVal);
-                break;
+                goto restart;
             case 4:
                 cout << "Printing all the stored values: \n";
                 LISTofIntVars::listAll();
-                break;
+                goto restart;
             case 5:
                 cout << "Number of integers: " <<  LISTofIntVars::countAll() << endl;
+                goto restart;
+            case 6:
+                cout << "Existing Program Thank You ***" << endl;
+                break;
             default:
                 goto restart;
         }
@@ -144,7 +148,7 @@ int main() {
     cout << "List of integers in array \n" << L1.listAll() << endl;
 
     L1.deleteVal(17);
-    cout << "List of integers in array  after deleting integer 17 \n" << L1.listAll() << endl;
+    cout << "Search for 17 after deleting integer 17 \n" << L1.search(17) << endl;
 
     if ( L1.search(17) ) { cout << "17 Found" << endl; }
     else { cout << "17 not found"<< endl; }
@@ -153,9 +157,9 @@ int main() {
     else { cout << "42 not found" << endl; }
 
     int arrSmall[] = {15,1,2,3,4};
-    int size = 5;
-    int sorted = L1.isSorted(size, arrSmall);
-    printf("This is the sorted list: \n", sorted);
+    int size = 100;
+    int sorted = L1.isSorted(size, newArr);
+    printf("This is the sorted list: %d \n", sorted);
 
     L1.userInput();
 
