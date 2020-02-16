@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7759a32d-7095-425b-b70a-9ee8a3f5a163" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codestream.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/.idea/codestream.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week5CarolSandersSSQ5/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week5CarolSandersSSQ5/.idea/codestream.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week5CarolSandersSSQ5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week5CarolSandersSSQ5/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week5CarolSandersSSQ5/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="AVuzugkH" />
+  </component>
+  <component name="ProjectId" id="1Xpc9NfVq5bWS74K98mjDvqcNOm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/CMakeLists.txt" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7759a32d-7095-425b-b70a-9ee8a3f5a163" name="Default Changelist" comment="" />
+      <created>1581746323845</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581746323845</updated>
+      <workItem from="1581746330666" duration="9672000" />
+      <workItem from="1581806902854" duration="10115000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1239" y="851" key="FileChooserDialogImpl" timestamp="1581805856340">
+      <screen x="0" y="0" width="2560" height="1409" />
+    </state>
+    <state x="1239" y="851" key="FileChooserDialogImpl/0.0.2560.1409@0.0.2560.1409" timestamp="1581805856340" />
+    <state width="1146" height="278" key="GridCell.Tab.0.bottom" timestamp="1581827613056">
+      <screen x="0" y="0" width="2560" height="1409" />
+    </state>
+    <state width="1146" height="278" key="GridCell.Tab.0.bottom/0.0.2560.1409@0.0.2560.1409" timestamp="1581827613056" />
+    <state width="1146" height="278" key="GridCell.Tab.0.center" timestamp="1581827613056">
+      <screen x="0" y="0" width="2560" height="1409" />
+    </state>
+    <state width="1146" height="278" key="GridCell.Tab.0.center/0.0.2560.1409@0.0.2560.1409" timestamp="1581827613056" />
+    <state width="1146" height="278" key="GridCell.Tab.0.left" timestamp="1581827613055">
+      <screen x="0" y="0" width="2560" height="1409" />
+    </state>
+    <state width="1146" height="278" key="GridCell.Tab.0.left/0.0.2560.1409@0.0.2560.1409" timestamp="1581827613055" />
+    <state width="1146" height="278" key="GridCell.Tab.0.right" timestamp="1581827613056">
+      <screen x="0" y="0" width="2560" height="1409" />
+    </state>
+    <state width="1146" height="278" key="GridCell.Tab.0.right/0.0.2560.1409@0.0.2560.1409" timestamp="1581827613056" />
+    <state x="1341" y="274" key="SettingsEditor" timestamp="1581805865581">
+      <screen x="0" y="0" width="2560" height="1409" />
+    </state>
+    <state x="1341" y="274" key="SettingsEditor/0.0.2560.1409@0.0.2560.1409" timestamp="1581805865581" />
+  </component>
+</project>
