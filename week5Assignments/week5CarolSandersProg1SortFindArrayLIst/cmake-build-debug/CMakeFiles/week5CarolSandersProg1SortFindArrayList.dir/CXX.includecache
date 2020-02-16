@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/carol/CLionProjects/cis252SMCD/week5Assignments/week5CarolSandersProg1SortFindArrayLIst/main.cpp
+iostream
+-
+stdio.h
+-
+

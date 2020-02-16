@@ -9,8 +9,9 @@ public:
     bool isFull() {
         return count == 100;
     }
+
 // called individually and also by the add method
-    bool addVal ( int inVal) {
+    bool addVal(int inVal) {
         if (!isFull()) {
             count++; // add 1 to count
             for (int i = 0; i < 100; i++) {
@@ -27,18 +28,21 @@ public:
     }
 //called individually and also by the add method
 
-int isSorted(int arrSize, int arr[]) {
-    // Base Case
-    // if Array has size equal to 0 or 1 then the array is sorted
-    if (arrSize <=1){
-        return 1;
+    int isSorted(int arrSize, int arr[]) {
+        // Base Case
+        // if Array has size equal to 0 or 1 then the array is sorted
+        if (arrSize <= 1) {
+            return 1;
+        }
+        // Recursive Case
+        //
+        if (arr[arrSize - 1] >= arr[arrSize - 2]) {
+            return isSorted(arr[arrSize - 1], arr);
+        }
+        return 0;
     }
-    // Recursive Case
-    //
-    if (arr[arrSize - 1] >= arr[arrSize-2]){
-        return isSorted(arr[arrSize -1], arr[]);
-    }
-}
+
+
 // check if item in list
     bool search (int inVal) { // called individually and also by the delete method
         if (!isEmpty()) {
@@ -53,7 +57,9 @@ int isSorted(int arrSize, int arr[]) {
     bool sort(int inVa){
     if (!isEmpty()) {
         for (int i= 0; i < 100; i++){
-            if (arr[i] == arr[i - 1])
+            if (arr[i] == arr[i - 1]){
+                return true;
+            }
         }
     }
 }
@@ -135,20 +141,24 @@ int main() {
     for (int i : newArr) {
         L1.addVal(i); // Adding 100 integers to newArr
     }
+    cout << "List of integers in array \n" << L1.listAll() << endl;
 
-    L1.listAll();
     L1.deleteVal(17);
-    L1.listAll();
+    cout << "List of integers in array  after deleting integer 17 \n" << L1.listAll() << endl;
 
     if ( L1.search(17) ) { cout << "17 Found" << endl; }
     else { cout << "17 not found"<< endl; }
 
     if ( L1.search(42) ) { cout << "42 Found" << endl; }
-    else { cout << "14 not found" << endl; }
+    else { cout << "42 not found" << endl; }
 
-    // L1.makeEmpty(); makeEmpty function is Not yet coded
-    L1.listAll();
+    int arrSmall[] = {15,1,2,3,4};
+    int size = 5;
+    int sorted = L1.isSorted(size, arrSmall);
+    printf("This is the sorted list: \n", sorted);
+
     L1.userInput();
+
     system("pause");  //not needed on the Mac
     return 0;
 }
