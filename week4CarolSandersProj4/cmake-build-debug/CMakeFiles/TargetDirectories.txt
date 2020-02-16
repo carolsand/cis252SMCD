@@ -1,0 +1,3 @@
+C:/Users/carol/CLionProjects/cis252SMCD/week4CarolSandersProj4/cmake-build-debug/CMakeFiles/week4CarolSandersProj4.dir
+C:/Users/carol/CLionProjects/cis252SMCD/week4CarolSandersProj4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/carol/CLionProjects/cis252SMCD/week4CarolSandersProj4/cmake-build-debug/CMakeFiles/rebuild_cache.dir

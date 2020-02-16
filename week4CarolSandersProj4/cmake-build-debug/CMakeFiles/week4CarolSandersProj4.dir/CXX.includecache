@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/carol/CLionProjects/cis252SMCD/week4CarolSandersProj4/linked_list_using_classes.cpp
+iostream
+-
+
+C:/Users/carol/CLionProjects/cis252SMCD/week4CarolSandersProj4/main.cpp
+iostream
+-
+./linked_list_using_classes.cpp
+C:/Users/carol/CLionProjects/cis252SMCD/week4CarolSandersProj4/linked_list_using_classes.cpp
+iostream
+-
+
