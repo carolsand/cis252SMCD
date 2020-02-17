@@ -90,7 +90,7 @@ CMAKE_EXE_LINKER_FLAGS_RELEASE:STRING=/INCREMENTAL:NO
 CMAKE_EXE_LINKER_FLAGS_RELWITHDEBINFO:STRING=/debug /INCREMENTAL
 
 //Install path prefix, prepended onto install directories.
-CMAKE_INSTALL_PREFIX:PATH=C:/Program Files (x86)/week5CarolSandersSSQ5
+CMAKE_INSTALL_PREFIX:PATH=C:/Program Files (x86)/week5CarolSandersProg1SortFindArrayList
 
 //Path to a program.
 CMAKE_LINKER:FILEPATH=C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.21.27702/bin/Hostx86/x86/link.exe
@@ -206,12 +206,6 @@ week5CarolSandersProg1SortFindArrayList_BINARY_DIR:STATIC=C:/Users/carol/CLionPr
 
 //Value Computed by CMake
 week5CarolSandersProg1SortFindArrayList_SOURCE_DIR:STATIC=C:/Users/carol/CLionProjects/cis252SMCD/week5Assignments/week5CarolSandersProg1SortFindArrayLIst
-
-//Value Computed by CMake
-week5CarolSandersSSQ5_BINARY_DIR:STATIC=C:/Users/carol/CLionProjects/cis252SMCD/week5Assignments/week5CarolSandersProg1SortFindArrayLIst/cmake-build-debug
-
-//Value Computed by CMake
-week5CarolSandersSSQ5_SOURCE_DIR:STATIC=C:/Users/carol/CLionProjects/cis252SMCD/week5Assignments/week5CarolSandersProg1SortFindArrayLIst
 
 
 ########################
