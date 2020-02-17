@@ -106,23 +106,27 @@ public:
                 cout << "Add value to list: ";
                 cin >> tempVal;
                 LISTofIntVars::addVal(tempVal);
-                break;
+                goto start;
             case 2:
                 cout << "Removing the value: ";
                 cin >> tempVal;
                 LISTofIntVars::deleteVal(tempVal);
-                break;
+                gotto start;
             case 3:
                 cout << "Enter value to search: \n";
                 cin >> tempVal;
                 LISTofIntVars::search(tempVal);
-                break;
+                goto start;
             case 4:
                 cout << "Printing all the stored values: \n";
                 LISTofIntVars::listAll();
-                break;
+                goto start;
             case 5:
                 cout << "Number of integers: " <<  LISTofIntVars::countAll() << endl;
+                goto start;
+            case 6:
+                cout << "Exit Program" << endl;
+                break;
             default:
                 goto restart;
         }
