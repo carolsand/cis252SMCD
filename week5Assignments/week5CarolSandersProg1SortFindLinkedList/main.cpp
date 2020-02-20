@@ -1,5 +1,7 @@
 #include <iostream>
 #include <stdc++>
+#include <stdio.h>
+
 using namespace std;
 
 class NODE {
@@ -111,27 +113,43 @@ void LIST::printAll() {
     }
 }
 
-void LIST::userInput(){
+void userInput(){
     int input = 0;
     int tempVal;
     restart:
-    cout << "Enter option:\n 1. Add\n 2. Remove\n 3. Print\n 5. Node Count" << endl;
-    cin >> input;
+        cout << "Enter option:\n 1. Add a Node\n 2. Remove a Node\n 3. Search For A Node\n 4. Print All Nodes\n 5. Show Node Count\n 6. Exit\n" << endl;
+        cin >> input;
     switch (input) {
         case 1:
             cout << "Add value to list: ";
-            cin >>tempVal;
-            LIST::add(tempVal);
-            break;
+            cin >> tempVal;
+            LISTofIntVars::addVal(tempVal);
+            goto restart;
         case 2:
             cout << "Removing the value: ";
-            LIST::remove(tempVal);
-            break;
+            cin >> tempVal;
+            LISTofIntVars::deleteVal(tempVal);
+            goto restart;
         case 3:
-            cout << "Printing All Values: \n";
-            LIST::printAll();
+            cout << "Enter value to search: \n";
+            cin >> tempVal;
+            LISTofIntVars::search(tempVal);
+            goto restart;
+        case 4:
+            cout << "Printing all the stored values: \n";
+            LISTofIntVars::listAll();
+            goto restart;
+        case 5:
+            cout << "Number of integers: " <<  LISTofIntVars::countAll() << endl;
+            goto restart;
+        case 6:
+            cout << "Existing Program Thank You ***" << endl;
+            break;
+        default:
+            goto restart;
     }
 }
+
 
 /* sorts the linked list by changing next pointers (Not contents of bucket) */
 void LIST::mergeSort(NODE** headRef) {

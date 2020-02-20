@@ -99,30 +99,29 @@ public:
         int input = 0;
         int tempVal;
         restart:
-        cout << "Enter option:\n 1.Add\n 2.Remove\n 3.Search\n 4.Print\n 5.Node Count" << endl;
+        cout << "Enter option:\n 1.Add\n 2.Remove\n 3.Search\n 4.Print\n 5.Node Count\n 6.Exit Program" << endl;
         cin >> input;
         switch (input) {
             case 1:
                 cout << "Add value to list: ";
                 cin >> tempVal;
                 LISTofIntVars::addVal(tempVal);
-                break;
             case 2:
                 cout << "Removing the value: ";
                 cin >> tempVal;
                 LISTofIntVars::deleteVal(tempVal);
-                break;
             case 3:
                 cout << "Enter value to search: \n";
                 cin >> tempVal;
                 LISTofIntVars::search(tempVal);
-                break;
             case 4:
                 cout << "Printing all the stored values: \n";
                 LISTofIntVars::listAll();
-                break;
             case 5:
-                cout << "Number of integers: " <<  LISTofIntVars::countAll() << endl;
+                cout << "Number of integers: \n" <<  LISTofIntVars::countAll();
+            case 6:
+                cout << "Exit Program\n";
+                break;
             default:
                 goto restart;
         }
