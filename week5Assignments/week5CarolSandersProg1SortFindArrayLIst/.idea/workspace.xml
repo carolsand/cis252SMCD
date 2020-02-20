@@ -12,28 +12,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7759a32d-7095-425b-b70a-9ee8a3f5a163" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/codestream.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codestream.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/codestream.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/week5CarolSandersProg1SortFindArrayList.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/week5CarolSandersProg1SortFindArrayList.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/week5CarolSandersProg1SortFindArrayList.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/week5CarolSandersProg1SortFindArrayList.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/week5CarolSandersProg1SortFindArrayList.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/week5CarolSandersProg1SortFindArrayList.ilk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/week5CarolSandersProg1SortFindArrayList.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/week5CarolSandersProg1SortFindArrayList.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/.idea/codestream.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/.idea/codestream.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week5CarolSandersSSQ5/.idea/codestream.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week5CarolSandersSSQ5/.idea/codestream.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week5CarolSandersSSQ5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week5CarolSandersSSQ5/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +50,7 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -93,6 +79,8 @@
       <workItem from="1581746330666" duration="9672000" />
       <workItem from="1581806902854" duration="10115000" />
       <workItem from="1581915298949" duration="1765000" />
+      <workItem from="1582167566769" duration="619000" />
+      <workItem from="1582172773724" duration="1192000" />
     </task>
     <servers />
   </component>
@@ -103,10 +91,10 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1239" y="851" key="FileChooserDialogImpl" timestamp="1581805856340">
+    <state x="1239" y="851" key="FileChooserDialogImpl" timestamp="1582168323059">
       <screen x="0" y="0" width="2560" height="1409" />
     </state>
-    <state x="1239" y="851" key="FileChooserDialogImpl/0.0.2560.1409@0.0.2560.1409" timestamp="1581805856340" />
+    <state x="1239" y="851" key="FileChooserDialogImpl/0.0.2560.1409@0.0.2560.1409" timestamp="1582168323059" />
     <state width="1194" height="275" key="GridCell.Tab.0.bottom" timestamp="1581915853627">
       <screen x="0" y="0" width="2560" height="1409" />
     </state>
@@ -127,5 +115,9 @@
       <screen x="0" y="0" width="2560" height="1409" />
     </state>
     <state x="1341" y="274" key="SettingsEditor/0.0.2560.1409@0.0.2560.1409" timestamp="1581805865581" />
+    <state x="1634" y="548" key="com.intellij.ide.util.TipDialog" timestamp="1582168302457">
+      <screen x="0" y="0" width="2560" height="1409" />
+    </state>
+    <state x="1634" y="548" key="com.intellij.ide.util.TipDialog/0.0.2560.1409@0.0.2560.1409" timestamp="1582168302457" />
   </component>
 </project>

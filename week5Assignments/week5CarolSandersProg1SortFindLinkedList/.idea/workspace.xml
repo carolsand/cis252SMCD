@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
-    <generated>
-      <config projectName="week5CarolSandersProg1SortFindLinkedList" targetName="week5CarolSandersProg1SortFindLinkedList" />
-    </generated>
+    <generated />
   </component>
   <component name="CMakeSettings">
     <configurations>
@@ -11,29 +9,15 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ed1fac3-0a07-42d4-b919-fc78a4241720" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindArrayLIst/.idea/codestream.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindArrayLIst/.idea/codestream.xml" afterDir="false" />
+    <list default="true" id="3ed1fac3-0a07-42d4-b919-fc78a4241720" name="Default Changelist" comment="Merge branch 'master' of github.com:carolsand/cis252SMCD&#10;&#10;# Conflicts:&#10;#&#9;week5Assignments/week5CarolSandersProg1SortFindArrayLIst/main.cpp">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/codestream.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindArrayLIst/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindArrayLIst/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindArrayLIst/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindArrayLIst/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindArrayLIst/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindArrayLIst/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindArrayLIst/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindArrayLIst/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindArrayLIst/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindArrayLIst/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindArrayLIst/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindArrayLIst/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindArrayLIst/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindArrayLIst/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindArrayLIst/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindArrayLIst/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindArrayLIst/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindArrayLIst/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindArrayLIst/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindArrayLIst/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindArrayLIst/cmake-build-debug/CMakeFiles/week5CarolSandersProg1SortFindArrayList.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindArrayLIst/cmake-build-debug/CMakeFiles/week5CarolSandersProg1SortFindArrayList.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindArrayLIst/cmake-build-debug/week5CarolSandersProg1SortFindArrayList.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindArrayLIst/cmake-build-debug/week5CarolSandersProg1SortFindArrayList.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindArrayLIst/cmake-build-debug/week5CarolSandersProg1SortFindArrayList.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindArrayLIst/cmake-build-debug/week5CarolSandersProg1SortFindArrayList.ilk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindArrayLIst/cmake-build-debug/week5CarolSandersProg1SortFindArrayList.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindArrayLIst/cmake-build-debug/week5CarolSandersProg1SortFindArrayList.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindArrayLIst/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindArrayLIst/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codestream.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codestream.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week5CarolSandersSSQ5/.idea/codestream.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week5CarolSandersSSQ5/.idea/codestream.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week5CarolSandersSSQ5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week5CarolSandersSSQ5/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,20 +47,14 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/cmake-build-debug/CMakeLists.txt" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-  </component>
-  <component name="RunManager">
-    <configuration name="week5CarolSandersProg1SortFindLinkedList" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="week5CarolSandersProg1SortFindLinkedList" TARGET_NAME="week5CarolSandersProg1SortFindLinkedList" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="week5CarolSandersProg1SortFindLinkedList" RUN_TARGET_NAME="week5CarolSandersProg1SortFindLinkedList">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -92,6 +70,11 @@
       <workItem from="1581805898099" duration="718000" />
       <workItem from="1581806643626" duration="1254000" />
       <workItem from="1581808742910" duration="2339000" />
+      <workItem from="1582167566878" duration="684000" />
+      <workItem from="1582173152033" duration="183000" />
+      <workItem from="1582174059854" duration="1670000" />
+      <workItem from="1582175786248" duration="595000" />
+      <workItem from="1582186066614" duration="487000" />
     </task>
     <servers />
   </component>
@@ -99,7 +82,36 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Merge branch 'master' of github.com:carolsand/cis252SMCD&#10;&#10;# Conflicts:&#10;#&#9;week5Assignments/week5CarolSandersProg1SortFindArrayLIst/main.cpp" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' of github.com:carolsand/cis252SMCD&#10;&#10;# Conflicts:&#10;#&#9;week5Assignments/week5CarolSandersProg1SortFindArrayLIst/main.cpp" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1254" y="565" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582186333177">
+      <screen x="0" y="0" width="2560" height="1409" />
+    </state>
+    <state x="1254" y="565" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1409@0.0.2560.1409" timestamp="1582186333177" />
+    <state x="1394" y="204" key="CommitChangelistDialog2" timestamp="1582174159075">
+      <screen x="0" y="0" width="2560" height="1409" />
+    </state>
+    <state x="1394" y="204" key="CommitChangelistDialog2/0.0.2560.1409@0.0.2560.1409" timestamp="1582174159075" />
+    <state x="498" y="73" key="DiffContextDialog" timestamp="1582168036073">
+      <screen x="0" y="0" width="2560" height="1409" />
+    </state>
+    <state x="498" y="73" key="DiffContextDialog/0.0.2560.1409@0.0.2560.1409" timestamp="1582168036073" />
+    <state x="1667" y="405" key="FileChooserDialogImpl" timestamp="1582186196368">
+      <screen x="0" y="0" width="2560" height="1409" />
+    </state>
+    <state x="1667" y="405" key="FileChooserDialogImpl/0.0.2560.1409@0.0.2560.1409" timestamp="1582186196368" />
+    <state x="1301" y="552" key="SettingsEditor" timestamp="1582186248410">
+      <screen x="0" y="0" width="2560" height="1409" />
+    </state>
+    <state x="1301" y="552" key="SettingsEditor/0.0.2560.1409@0.0.2560.1409" timestamp="1582186248410" />
+    <state x="1495" y="734" key="com.intellij.ide.util.TipDialog" timestamp="1582175889901">
+      <screen x="0" y="0" width="2560" height="1409" />
+    </state>
+    <state x="1495" y="734" key="com.intellij.ide.util.TipDialog/0.0.2560.1409@0.0.2560.1409" timestamp="1582175889901" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
