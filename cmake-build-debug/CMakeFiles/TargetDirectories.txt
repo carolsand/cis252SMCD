@@ -1,0 +1,3 @@
+/home/carolsand/CLionProjects/week6Assignments/week6CarolSandersP1Stack/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/carolsand/CLionProjects/week6Assignments/week6CarolSandersP1Stack/cmake-build-debug/CMakeFiles/week6CarolSandersP1Stack.dir
+/home/carolsand/CLionProjects/week6Assignments/week6CarolSandersP1Stack/cmake-build-debug/CMakeFiles/edit_cache.dir

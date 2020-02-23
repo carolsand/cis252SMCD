@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/week6CarolSandersP1Stack.dir/main.cpp.o  -o week6CarolSandersP1Stack 
