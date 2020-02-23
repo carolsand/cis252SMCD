@@ -1,3 +1,0 @@
-C:/Users/carol/CLionProjects/cis252SMCD/week5Assignments/week5CarolSandersProg1SortFindArrayLIst/cmake-build-debug/CMakeFiles/week5CarolSandersProg1SortFindArrayList.dir
-C:/Users/carol/CLionProjects/cis252SMCD/week5Assignments/week5CarolSandersProg1SortFindArrayLIst/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/carol/CLionProjects/cis252SMCD/week5Assignments/week5CarolSandersProg1SortFindArrayLIst/cmake-build-debug/CMakeFiles/rebuild_cache.dir
