@@ -3,4 +3,4 @@ project(week6CarolSandersP1Stack)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(week6CarolSandersP1Stack main.cpp)
+add_executable(week6CarolSandersP1Stack main.cpp p1StackTest.h)

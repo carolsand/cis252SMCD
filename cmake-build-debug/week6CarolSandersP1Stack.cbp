@@ -87,6 +87,9 @@
 		<Unit filename="/home/carolsand/CLionProjects/week6Assignments/week6CarolSandersP1Stack/main.cpp">
 			<Option target="week6CarolSandersP1Stack"/>
 		</Unit>
+		<Unit filename="/home/carolsand/CLionProjects/week6Assignments/week6CarolSandersP1Stack/p1StackTest.h">
+			<Option target="week6CarolSandersP1Stack"/>
+		</Unit>
 		<Unit filename="/home/carolsand/CLionProjects/week6Assignments/week6CarolSandersP1Stack/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
