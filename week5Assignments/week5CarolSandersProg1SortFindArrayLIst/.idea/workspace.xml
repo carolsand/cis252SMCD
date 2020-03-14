@@ -1,5 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BuildServerSettings">
+    <option name="LOGIN" value="" />
+    <option name="SERVER_URL" value="http://buildserver" />
+    <option name="REMEMBER_ME" value="true" />
+    <option name="USE_IDEA_PROXY_SETTINGS" value="true" />
+    <option name="INSPECTIONS_BUILD_TYPE_IDS" />
+    <option name="DUPLICATES_BUILD_TYPE_IDS" />
+    <option name="ENABLE_SUITABLE_CONFIGURATION_CACHING" value="true" />
+    <option name="COVERAGE_SETTINGS" />
+    <option name="TEST_STATUS_ENABLED" value="true" />
+    <option name="TEST_STATUS_SHOW_SUCCESSFUL" value="false" />
+    <option name="POSTPONE_SUITABLE_CONFIGURATIONS_SEARCH" value="false" />
+    <option name="ARTIFACTS_BUILD_TYPE_IDS" />
+    <option name="PERFORM_COMMIT_IF_SUCCESSFUL" value="true" />
+    <option name="PERFORM_COMMIT_IF_NO_NEW_FAILED_TESTS" value="false" />
+    <option name="REQUEST_CONFIRMATON" value="false" />
+    <option name="PRE_TESTED_COMMIT" value="true" />
+    <option name="FILTER_BY_STATUS" value="false" />
+    <option name="FILTER_MARKED_AS_FIXED" value="false" />
+    <option name="SHOW_CLOSE_PROMPT" value="true" />
+    <option name="TOOL_WINDOW_SELECTED_CONTENT_INDEX" value="0" />
+    <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
+    <option name="showStatusBarWidget" value="true" />
+  </component>
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
       <config projectName="week5CarolSandersProg1SortFindArrayList" targetName="week5CarolSandersProg1SortFindArrayList" />
@@ -12,14 +36,68 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7759a32d-7095-425b-b70a-9ee8a3f5a163" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/codestream.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeCXXCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/week5CarolSandersProg1SortFindArrayList.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/week5CarolSandersProg1SortFindArrayList.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/week5CarolSandersProg1SortFindArrayList.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/week5CarolSandersProg1SortFindArrayList.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/week5CarolSandersProg1SortFindArrayList.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/week5CarolSandersProg1SortFindArrayList.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/week5CarolSandersProg1SortFindArrayList.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/week5CarolSandersProg1SortFindArrayList.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/week5CarolSandersProg1SortFindArrayList.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/week5CarolSandersProg1SortFindArrayList.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/week5CarolSandersProg1SortFindArrayList.dir/objects1.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/week5CarolSandersProg1SortFindArrayList.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/week5CarolSandersProg1SortFindArrayList.cbp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/.idea/codestream.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/.idea/codestream.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/cmake-build-debug/CMakeFiles/3.15.3/CMakeCXXCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/cmake-build-debug/CMakeFiles/3.15.3/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/cmake-build-debug/CMakeFiles/3.15.3/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/cmake-build-debug/CMakeFiles/week5CarolSandersProg1SortFindLinkedList.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/cmake-build-debug/CMakeFiles/week5CarolSandersProg1SortFindLinkedList.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/cmake-build-debug/CMakeFiles/week5CarolSandersProg1SortFindLinkedList.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/cmake-build-debug/CMakeFiles/week5CarolSandersProg1SortFindLinkedList.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/cmake-build-debug/CMakeFiles/week5CarolSandersProg1SortFindLinkedList.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/cmake-build-debug/CMakeFiles/week5CarolSandersProg1SortFindLinkedList.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/cmake-build-debug/CMakeFiles/week5CarolSandersProg1SortFindLinkedList.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/cmake-build-debug/CMakeFiles/week5CarolSandersProg1SortFindLinkedList.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/cmake-build-debug/CMakeFiles/week5CarolSandersProg1SortFindLinkedList.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/cmake-build-debug/CMakeFiles/week5CarolSandersProg1SortFindLinkedList.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/cmake-build-debug/CMakeFiles/week5CarolSandersProg1SortFindLinkedList.dir/objects1.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/cmake-build-debug/week5CarolSandersProg1SortFindLinkedList.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/cmake-build-debug/week5CarolSandersProg1SortFindLinkedList.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../week5CarolSandersProg1SortFindLinkedList/main.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,15 +127,16 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RunManager">
     <configuration name="week5CarolSandersProg1SortFindArrayList" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="week5CarolSandersProg1SortFindArrayList" TARGET_NAME="week5CarolSandersProg1SortFindArrayList" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="week5CarolSandersProg1SortFindArrayList" RUN_TARGET_NAME="week5CarolSandersProg1SortFindArrayList">
@@ -81,6 +160,14 @@
       <workItem from="1581915298949" duration="1765000" />
       <workItem from="1582167566769" duration="619000" />
       <workItem from="1582172773724" duration="1192000" />
+      <workItem from="1582423770587" duration="313000" />
+      <workItem from="1582424123132" duration="3269000" />
+      <workItem from="1582434826320" duration="599000" />
+      <workItem from="1582483406449" duration="6083000" />
+      <workItem from="1582501822159" duration="3396000" />
+      <workItem from="1582865196836" duration="995000" />
+      <workItem from="1582881852972" duration="2039000" />
+      <workItem from="1582948041253" duration="109000" />
     </task>
     <servers />
   </component>
@@ -91,33 +178,66 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1239" y="851" key="FileChooserDialogImpl" timestamp="1582168323059">
-      <screen x="0" y="0" width="2560" height="1409" />
+    <state x="1549" y="1072" width="424" height="491" key="FileChooserDialogImpl" timestamp="1582424011378">
+      <screen x="0" y="27" width="3200" height="1731" />
     </state>
     <state x="1239" y="851" key="FileChooserDialogImpl/0.0.2560.1409@0.0.2560.1409" timestamp="1582168323059" />
-    <state width="1194" height="275" key="GridCell.Tab.0.bottom" timestamp="1581915853627">
-      <screen x="0" y="0" width="2560" height="1409" />
+    <state x="1549" y="1072" width="424" height="491" key="FileChooserDialogImpl/0.27.3200.1731@0.27.3200.1731" timestamp="1582424011378" />
+    <state width="1489" height="424" key="GridCell.Tab.0.bottom" timestamp="1582874248488">
+      <screen x="0" y="387" width="7040" height="1731" />
     </state>
     <state width="1194" height="275" key="GridCell.Tab.0.bottom/0.0.2560.1409@0.0.2560.1409" timestamp="1581915853627" />
-    <state width="1194" height="275" key="GridCell.Tab.0.center" timestamp="1581915853627">
-      <screen x="0" y="0" width="2560" height="1409" />
+    <state width="1405" height="366" key="GridCell.Tab.0.bottom/0.27.2880.1551@0.27.2880.1551" timestamp="1582529118667" />
+    <state width="3154" height="499" key="GridCell.Tab.0.bottom/0.27.3200.1731@0.27.3200.1731" timestamp="1582425260396" />
+    <state width="1489" height="424" key="GridCell.Tab.0.bottom/0.387.7040.1731@0.387.7040.1731" timestamp="1582874248488" />
+    <state width="1489" height="424" key="GridCell.Tab.0.center" timestamp="1582874248487">
+      <screen x="0" y="387" width="7040" height="1731" />
     </state>
     <state width="1194" height="275" key="GridCell.Tab.0.center/0.0.2560.1409@0.0.2560.1409" timestamp="1581915853627" />
-    <state width="1194" height="275" key="GridCell.Tab.0.left" timestamp="1581915853627">
-      <screen x="0" y="0" width="2560" height="1409" />
+    <state width="1405" height="366" key="GridCell.Tab.0.center/0.27.2880.1551@0.27.2880.1551" timestamp="1582529118666" />
+    <state width="3154" height="499" key="GridCell.Tab.0.center/0.27.3200.1731@0.27.3200.1731" timestamp="1582425260396" />
+    <state width="1489" height="424" key="GridCell.Tab.0.center/0.387.7040.1731@0.387.7040.1731" timestamp="1582874248487" />
+    <state width="1489" height="424" key="GridCell.Tab.0.left" timestamp="1582874248487">
+      <screen x="0" y="387" width="7040" height="1731" />
     </state>
     <state width="1194" height="275" key="GridCell.Tab.0.left/0.0.2560.1409@0.0.2560.1409" timestamp="1581915853627" />
-    <state width="1194" height="275" key="GridCell.Tab.0.right" timestamp="1581915853627">
-      <screen x="0" y="0" width="2560" height="1409" />
+    <state width="1405" height="366" key="GridCell.Tab.0.left/0.27.2880.1551@0.27.2880.1551" timestamp="1582529118666" />
+    <state width="3154" height="499" key="GridCell.Tab.0.left/0.27.3200.1731@0.27.3200.1731" timestamp="1582425260396" />
+    <state width="1489" height="424" key="GridCell.Tab.0.left/0.387.7040.1731@0.387.7040.1731" timestamp="1582874248487" />
+    <state width="1489" height="424" key="GridCell.Tab.0.right" timestamp="1582874248487">
+      <screen x="0" y="387" width="7040" height="1731" />
     </state>
     <state width="1194" height="275" key="GridCell.Tab.0.right/0.0.2560.1409@0.0.2560.1409" timestamp="1581915853627" />
-    <state x="1341" y="274" key="SettingsEditor" timestamp="1581805865581">
-      <screen x="0" y="0" width="2560" height="1409" />
+    <state width="1405" height="366" key="GridCell.Tab.0.right/0.27.2880.1551@0.27.2880.1551" timestamp="1582529118667" />
+    <state width="3154" height="499" key="GridCell.Tab.0.right/0.27.3200.1731@0.27.3200.1731" timestamp="1582425260396" />
+    <state width="1489" height="424" key="GridCell.Tab.0.right/0.387.7040.1731@0.387.7040.1731" timestamp="1582874248487" />
+    <state width="1405" height="450" key="GridCell.Tab.1.bottom" timestamp="1582485965698">
+      <screen x="0" y="27" width="2880" height="1551" />
+    </state>
+    <state width="1405" height="450" key="GridCell.Tab.1.bottom/0.27.2880.1551@0.27.2880.1551" timestamp="1582485965698" />
+    <state width="1405" height="450" key="GridCell.Tab.1.center" timestamp="1582485965697">
+      <screen x="0" y="27" width="2880" height="1551" />
+    </state>
+    <state width="1405" height="450" key="GridCell.Tab.1.center/0.27.2880.1551@0.27.2880.1551" timestamp="1582485965697" />
+    <state width="1405" height="450" key="GridCell.Tab.1.left" timestamp="1582485965697">
+      <screen x="0" y="27" width="2880" height="1551" />
+    </state>
+    <state width="1405" height="450" key="GridCell.Tab.1.left/0.27.2880.1551@0.27.2880.1551" timestamp="1582485965697" />
+    <state width="1405" height="450" key="GridCell.Tab.1.right" timestamp="1582485965697">
+      <screen x="0" y="27" width="2880" height="1551" />
+    </state>
+    <state width="1405" height="450" key="GridCell.Tab.1.right/0.27.2880.1551@0.27.2880.1551" timestamp="1582485965697" />
+    <state x="1676" y="364" width="1022" height="737" key="SettingsEditor" timestamp="1582424518339">
+      <screen x="0" y="27" width="3200" height="1731" />
     </state>
     <state x="1341" y="274" key="SettingsEditor/0.0.2560.1409@0.0.2560.1409" timestamp="1581805865581" />
-    <state x="1634" y="548" key="com.intellij.ide.util.TipDialog" timestamp="1582168302457">
-      <screen x="0" y="0" width="2560" height="1409" />
+    <state x="1676" y="364" width="1022" height="737" key="SettingsEditor/0.27.3200.1731@0.27.3200.1731" timestamp="1582424518339" />
+    <state x="1838" y="630" key="com.intellij.ide.util.TipDialog" timestamp="1582916944688">
+      <screen x="0" y="360" width="3200" height="1800" />
     </state>
     <state x="1634" y="548" key="com.intellij.ide.util.TipDialog/0.0.2560.1409@0.0.2560.1409" timestamp="1582168302457" />
+    <state x="1839" y="630" key="com.intellij.ide.util.TipDialog/0.27.2880.1551@0.27.2880.1551" timestamp="1582483648178" />
+    <state x="2043" y="700" key="com.intellij.ide.util.TipDialog/0.27.3200.1731@0.27.3200.1731" timestamp="1582424522166" />
+    <state x="1838" y="630" key="com.intellij.ide.util.TipDialog/0.360.3200.1800/3200.0.3840.2160@0.360.3200.1800" timestamp="1582916944688" />
   </component>
 </project>

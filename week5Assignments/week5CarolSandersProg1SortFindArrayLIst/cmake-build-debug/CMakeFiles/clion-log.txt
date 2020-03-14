@@ -1,5 +1,4 @@
-Visual Studio not found at: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community Configure
-
-Cannot get compiler information:
-	Cannot locate vcvarsall.bat in C:\Program Files (x86)\Microsoft Visual Studio\2019\Community
-	Please check if Visual C++ support is installed
+/home/carolsand/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/193.6494.38/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/carolsand/development/cis252SMCD/week5Assignments/week5CarolSandersProg1SortFindArrayLIst
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/carolsand/development/cis252SMCD/week5Assignments/week5CarolSandersProg1SortFindArrayLIst/cmake-build-debug

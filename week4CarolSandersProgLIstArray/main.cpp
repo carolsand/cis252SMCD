@@ -5,10 +5,12 @@ class LISTofIntVars {
 private:
     int maxVars;
     int count;
-    IntVars* varEntries;
+    int InVar, varEntries;
 public:
     LISTofIntVars(int maxVars = 10);
     ~LISTofIntVars();
+    int setVar(int InVar) {return InVar = varEntries;}
+    int getVar(int varEntries) {return varEntries;}
 // check if space left to use
     bool isFull() {
         if ( count == 10) { return true;}
@@ -16,12 +18,12 @@ public:
         { return false; }
     }
 // called individually and also by the add method
-    bool add1 ( const  LISTofIntVars& varEntries) {
-        while (i >= 0 && varEntries) { // remove while loop
+    bool add1 ( const  LISTofIntVars, int varEntries) {
+        while (int i > maxVars) { // remove while loop
             if (isFull()) {
                 count++; // add 1 to count
-                for (i = 0; i < maxVars; i++) {
-                    if (i == -1) { i = inVar; }
+                for (int i = 0; i < maxVars; i++) {
+                    if (i == -1) { i = InVar; }
                     else return false;
                 }
                 return false;
@@ -37,7 +39,7 @@ public:
 // check if item in list
     bool found (int inVal) { // called individually and also by the delete method
         if (isEmpty()) {
-            for (i = 0; i < maxVars; i++) {
+            for (int i = 0; i < maxVars; i++) {
                 if (i == inVal) { return true; }
                 else { return false; }
             }
@@ -46,7 +48,7 @@ public:
     }
 
     bool delete1 (int inVal) {
-        for(i = 0; i < maxVars; i++) {
+        for(int i = 0; i < maxVars; i++) {
             if (i == inVal) {
                 i = -1;
                 return true;
@@ -56,7 +58,7 @@ public:
     }
 
     void listAll() {
-        for ( i = 0; i < maxVars; i++) {
+        for (int i = 0; i < maxVars; i++) {
             if (i != -1) cout << i << endl;
         }
     }
@@ -64,10 +66,10 @@ public:
 };
 
 int main() {
-    cout << "Hello, World!" << endl; // Test all access methods
+    cout << "CAS Lab Testing access Methods" << endl; // Test all access methods
     LISTofIntVars L1;
-    L1.add1(42);
-    L1.add1(17);
+    L1.add1(42, 8);
+    L1.add1(17, 8);
     L1.listAll();
     L1.delete1(17);
     L1.listAll();

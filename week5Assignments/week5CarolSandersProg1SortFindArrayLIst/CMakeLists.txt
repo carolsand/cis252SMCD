@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.15)
 project(week5CarolSandersProg1SortFindArrayList)
 
-set(CMAKE_CXX_STANDARD 98)
+set(CMAKE_CXX_STANDARD 17)
 
 add_executable(week5CarolSandersProg1SortFindArrayList main.cpp)

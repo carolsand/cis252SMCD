@@ -1,8 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/week5CarolSandersProg1SortFindLinkedList.dir/main.cpp.obj"
-  "week5CarolSandersProg1SortFindLinkedList.exe"
-  "week5CarolSandersProg1SortFindLinkedList.exe.manifest"
-  "week5CarolSandersProg1SortFindLinkedList.lib"
+  "CMakeFiles/week5CarolSandersProg1SortFindLinkedList.dir/main.cpp.o"
+  "week5CarolSandersProg1SortFindLinkedList"
   "week5CarolSandersProg1SortFindLinkedList.pdb"
 )
 

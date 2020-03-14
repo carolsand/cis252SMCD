@@ -1,9 +1,10 @@
-#include <iostream>
+#include <iostream>4
 #include <stdio.h>
+#include "stack"
 
 using namespace std;
 
-class LISTofIntVars {
+class lisTofIntVars {
 public:
 // check if space left to use
     bool isFull() {
@@ -37,6 +38,7 @@ public:
         // Recursive Case
         //
         if (arr[arrSize - 1] >= arr[arrSize - 2]) {
+            cout << "Value of arrSize -1:" << arr[arrSize -  1] << endl;
             return isSorted(arr[arrSize - 1], arr);
         }
         return 0;
@@ -54,7 +56,7 @@ public:
         return false;
     }
 
-    bool sort(int inVa){
+    bool sort(int arr[]){
     if (!isEmpty()) {
         for (int i= 0; i < 100; i++){
             if (arr[i] == arr[i - 1]){
@@ -89,8 +91,12 @@ public:
         return count;
     }
 
-    int sortArr() {
+    int sortArr(int inVal) {
        for (int i = 0; i < 100; i++) {
+           if (arr[i] >= arr[i +1]){
+               arr[i] = arr[i + 1];
+           }
+           return arr[arr[i]];
 
        }
 }
@@ -105,25 +111,25 @@ public:
             case 1:
                 cout << "Add value to list: ";
                 cin >> tempVal;
-                LISTofIntVars::addVal(tempVal);
-                goto start;
+                lisTofIntVars::addVal(tempVal);
+                goto restart;
             case 2:
                 cout << "Removing the value: ";
                 cin >> tempVal;
-                LISTofIntVars::deleteVal(tempVal);
-                gotto start;
+                lisTofIntVars::deleteVal(tempVal);
+                goto restart;
             case 3:
                 cout << "Enter value to search: \n";
                 cin >> tempVal;
-                LISTofIntVars::search(tempVal);
-                goto start;
+                lisTofIntVars::search(tempVal);
+                goto restart;
             case 4:
                 cout << "Printing all the stored values: \n";
-                LISTofIntVars::listAll();
-                goto start;
+                lisTofIntVars::listAll();
+                goto restart;
             case 5:
-                cout << "Number of integers: " <<  LISTofIntVars::countAll() << endl;
-                goto start;
+                cout << "Number of integers: " << lisTofIntVars::countAll() << endl;
+                goto restart;
             case 6:
                 cout << "Exit Program" << endl;
                 break;
@@ -140,11 +146,11 @@ private:
 
 int main() {
     cout << "Carol Sanders Array sort and search" << endl; // Test all access methods
-    LISTofIntVars L1{};
-    int newArr[100];
-    for (int i : newArr) {
-        L1.addVal(i); // Adding 100 integers to newArr
-    }
+    lisTofIntVars L1{};
+//    int newArr[100];
+//    for (int i : newArr) {
+//        L1.addVal(i); // Adding 100 integers to newArr
+//    }
     cout << "List of integers in array \n" << L1.listAll() << endl;
 
     L1.deleteVal(17);
@@ -159,10 +165,10 @@ int main() {
     int arrSmall[] = {15,1,2,3,4};
     int size = 5;
     int sorted = L1.isSorted(size, arrSmall);
-    printf("This is the sorted list: \n", sorted);
+//    printf("This is the sorted list: \n", sorted);
 
-    L1.userInput();
+//    L1.userInput();
 
-    system("pause");  //not needed on the Mac
+//    system("pause");  //not needed on the Mac
     return 0;
 }

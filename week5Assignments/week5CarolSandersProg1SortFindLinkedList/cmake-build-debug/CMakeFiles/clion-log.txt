@@ -1,18 +1,4 @@
-C:\Users\carol\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\193.6015.37\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - NMake Makefiles" C:\Users\carol\CLionProjects\cis252SMCD\week5Assignments\week5CarolSandersProg1SortFindLinkedList
--- The C compiler identification is MSVC 19.21.27702.2
--- The CXX compiler identification is MSVC 19.21.27702.2
--- Check for working C compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.21.27702/bin/Hostx86/x86/cl.exe
--- Check for working C compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.21.27702/bin/Hostx86/x86/cl.exe -- works
--- Detecting C compiler ABI info
--- Detecting C compiler ABI info - done
--- Detecting C compile features
--- Detecting C compile features - done
--- Check for working CXX compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.21.27702/bin/Hostx86/x86/cl.exe
--- Check for working CXX compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.21.27702/bin/Hostx86/x86/cl.exe -- works
--- Detecting CXX compiler ABI info
--- Detecting CXX compiler ABI info - done
--- Detecting CXX compile features
--- Detecting CXX compile features - done
+/home/carolsand/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/193.6494.38/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/carolsand/development/cis252SMCD/week5Assignments/week5CarolSandersProg1SortFindLinkedList
 -- Configuring done
 -- Generating done
--- Build files have been written to: C:/Users/carol/CLionProjects/cis252SMCD/week5Assignments/week5CarolSandersProg1SortFindLinkedList/cmake-build-debug
+-- Build files have been written to: /home/carolsand/development/cis252SMCD/week5Assignments/week5CarolSandersProg1SortFindLinkedList/cmake-build-debug
