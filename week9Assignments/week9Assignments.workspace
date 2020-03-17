@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="week9Assignments" Database="" Version="10000">
+  <Project Name="MidTermPart2" Path="MidTermPart2/MidTermPart2/MidTermPart2.project" Active="No"/>
+  <Project Name="dynamicArraysgenerate" Path="dynamicArraysgenerate/dynamicArraysgenerate/dynamicArraysgenerate.project" Active="No"/>
+  <Project Name="week9CarolSandersHeapTProg5_cc" Path="week9CarolSandersHeapProg4/week9CarolSandersHeapProg4/week9CarolSandersHeapProg4.project" Active="No"/>
+  <Project Name="Week9CarolSandersHeapProg4" Path="Week9CarolSandersHeapProg4/Week9CarolSandersHeapProg4/Week9CarolSandersHeapProg4.project" Active="No"/>
+  <Project Name="templates_cas-lab" Path="../../templates/templates_cas-lab/templates_cas-lab.project" Active="No"/>
+  <Project Name="practice" Path="practice/practice/practice.project" Active="No"/>
+  <Project Name="week9CarolSandersHeapTProg5" Path="../week9CarolSandersHeapTProg5/week9CarolSandersHeapTProg5/week9CarolSandersHeapTProg5.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="MidTermPart2" ConfigName="Debug"/>
+      <Project Name="dynamicArraysgenerate" ConfigName="Debug"/>
+      <Project Name="week9CarolSandersHeapTProg5_cc" ConfigName="Debug"/>
+      <Project Name="Week9CarolSandersHeapProg4" ConfigName="Debug"/>
+      <Project Name="templates_cas-lab" ConfigName="Debug"/>
+      <Project Name="practice" ConfigName="Debug"/>
+      <Project Name="week9CarolSandersHeapTProg5" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="MidTermPart2" ConfigName="Release"/>
+      <Project Name="dynamicArraysgenerate" ConfigName="Release"/>
+      <Project Name="week9CarolSandersHeapTProg5_cc" ConfigName="Release"/>
+      <Project Name="Week9CarolSandersHeapProg4" ConfigName="Release"/>
+      <Project Name="templates_cas-lab" ConfigName="Release"/>
+      <Project Name="practice" ConfigName="Release"/>
+      <Project Name="week9CarolSandersHeapTProg5" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

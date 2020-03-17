@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="templates" Database="" Version="10000">
+  <Project Name="templates" Path="templates/templates.project" Active="Yes"/>
+  <Project Name="week8CarolSandersBTree" Path="../week8Assignments/week8CarolSandersBTree/week8CarolSandersBTree/week8CarolSandersBTree.project"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="templates" ConfigName="Debug"/>
+      <Project Name="week8CarolSandersBTree" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="templates" ConfigName="Release"/>
+      <Project Name="week8CarolSandersBTree" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

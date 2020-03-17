@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="week7Assingments" Database="" Version="10000">
+  <Project Name="week7Assingments" Path="week7Assingments/week7Assingments.project" Active="No"/>
+  <Project Name="week7CarolSandersQueueProg1CircularArray" Path="../week7CarolSandersQueuesArrays/week7CarolSandersQueuesArrays/week7CarolSandersQueuesArrays.project" Active="No"/>
+  <Project Name="week7CarolSandersP1Queue" Path="../week7CarolSandersP1Queue/week7CarolSandersP1Queue/week7CarolSandersP1Queue.project" Active="No"/>
+  <Project Name="week7CarolSandersQueueProg1CircularArray" Path="../week7CarolSandersQueueProg1CircularArray/week7CarolSandersQueueProg1CircularArray/week7CarolSandersQueueProg1CircularArray.project" Active="No"/>
+  <Project Name="week7CarolSandersProj4STLQueue" Path="../week7CaroSanders/week7CarolSandersProj4STLQueue/week7CarolSandersProj4STLQueue.project" Active="No"/>
+  <Project Name="week7CarolSandersProg2ArrTemplates_ex" Path="../week7CarolSandersProg2ArrTemplates_ex/week7CarolSandersProg2ArrTemplates_ex/week7CarolSandersProg2ArrTemplates_ex.project" Active="No"/>
+  <Project Name="week7PracticeCode" Path="../week7PracticeCode/week7PracticeCode/week7PracticeCode.project" Active="No"/>
+  <Project Name="week8InClassCIS252ProfSchwarz" Path="week8InClassCIS252ProfSchwarz/week8InClassCIS252ProfSchwarz.project" Active="No"/>
+  <Project Name="week8Recursion" Path="../../week8Assingments/week8Recursion/week8Recursion/week8Recursion.project" Active="No"/>
+  <Project Name="week8Assingments" Path="../../week8Assign/week8CarolSandersProg2/week8Assingments/week8Assingments.project" Active="No"/>
+  <Project Name="week8PracticeTrees" Path="../../week8Assingments/week8PracticeTrees/week8PracticeTrees/week8PracticeTrees.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="week7Assingments" ConfigName="Debug"/>
+      <Project Name="week7CarolSandersQueueProg1CircularArray" ConfigName="Debug"/>
+      <Project Name="week7CarolSandersP1Queue" ConfigName="Debug"/>
+      <Project Name="week7CarolSandersQueueProg1CircularArray" ConfigName="Debug"/>
+      <Project Name="week7CarolSandersProj4STLQueue" ConfigName="Debug"/>
+      <Project Name="week7CarolSandersProg2ArrTemplates_ex" ConfigName="Debug"/>
+      <Project Name="week7PracticeCode" ConfigName="Debug"/>
+      <Project Name="week8InClassCIS252ProfSchwarz" ConfigName="Debug"/>
+      <Project Name="week8Recursion" ConfigName="Debug"/>
+      <Project Name="week8Assingments" ConfigName="Debug"/>
+      <Project Name="week8PracticeTrees" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="week7Assingments" ConfigName="Release"/>
+      <Project Name="week7CarolSandersQueueProg1CircularArray" ConfigName="Release"/>
+      <Project Name="week7CarolSandersP1Queue" ConfigName="Release"/>
+      <Project Name="week7CarolSandersQueueProg1CircularArray" ConfigName="Release"/>
+      <Project Name="week7CarolSandersProj4STLQueue" ConfigName="Release"/>
+      <Project Name="week7CarolSandersProg2ArrTemplates_ex" ConfigName="Release"/>
+      <Project Name="week7PracticeCode" ConfigName="Release"/>
+      <Project Name="week8InClassCIS252ProfSchwarz" ConfigName="Release"/>
+      <Project Name="week8Recursion" ConfigName="Release"/>
+      <Project Name="week8Assingments" ConfigName="Release"/>
+      <Project Name="week8PracticeTrees" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

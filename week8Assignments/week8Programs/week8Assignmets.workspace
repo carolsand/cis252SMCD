@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="week8Assignmets" Database="" Version="10000">
+  <Project Name="week8Assingments" Path="../week8CarolSandersProg2/week8Assingments/week8Assingments.project" Active="No"/>
+  <Project Name="week8PracticeTrees" Path="week8PracticeTrees/week8PracticeTrees/week8PracticeTrees.project" Active="No"/>
+  <Project Name="week8CarolSandersProg2" Path="week8Recursion/week8Recursion/week8Recursion.project" Active="No"/>
+  <Project Name="week8CarolSandersProg3" Path="week8CarolSandersProg3/week8CarolSandersProg3.project" Active="No"/>
+  <Project Name="week8CarolSandersProg5" Path="../week8CarolSandersProg5/week8CarolSandersProg5/week8CarolSandersProg5.project" Active="No"/>
+  <Project Name="week8CarolSandersBTree" Path="../week8CarolSandersBTree/week8CarolSandersBTree/week8CarolSandersBTree.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="week8PracticeTrees" ConfigName="Debug"/>
+      <Project Name="week8CarolSandersProg2" ConfigName="Debug"/>
+      <Project Name="week8Assingments" ConfigName="Debug"/>
+      <Project Name="week8PracticeTrees" ConfigName="Debug"/>
+      <Project Name="week8CarolSandersProg2" ConfigName="Debug"/>
+      <Project Name="week8CarolSandersProg3" ConfigName="Debug"/>
+      <Project Name="week8CarolSandersProg5" ConfigName="Debug"/>
+      <Project Name="week8CarolSandersBTree" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="week8PracticeTrees" ConfigName="Release"/>
+      <Project Name="week8CarolSandersProg2" ConfigName="Release"/>
+      <Project Name="week8Assingments" ConfigName="Release"/>
+      <Project Name="week8PracticeTrees" ConfigName="Release"/>
+      <Project Name="week8CarolSandersProg2" ConfigName="Release"/>
+      <Project Name="week8CarolSandersProg3" ConfigName="Release"/>
+      <Project Name="week8CarolSandersProg5" ConfigName="Release"/>
+      <Project Name="week8CarolSandersBTree" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

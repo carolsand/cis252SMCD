@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="week8Assignments" Database="" Version="10000">
+  <Project Name="week8CarolSandersBTree" Path="../week8CarolSandersBTree/week8CarolSandersBTree/week8CarolSandersBTree.project" Active="No"/>
+  <Project Name="week8PracticeTrees" Path="../week8Programs/week8PracticeTrees/week8PracticeTrees/week8PracticeTrees.project" Active="No"/>
+  <Project Name="week8TreePgm3Temp" Path="../week8TreePgm3Temp/week8TreePgm3Temp/week8TreePgm3Temp.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="week8CarolSandersBTree" ConfigName="Debug"/>
+      <Project Name="week8PracticeTrees" ConfigName="Debug"/>
+      <Project Name="week8TreePgm3Temp" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="week8CarolSandersBTree" ConfigName="Release"/>
+      <Project Name="week8PracticeTrees" ConfigName="Release"/>
+      <Project Name="week8TreePgm3Temp" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
